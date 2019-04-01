@@ -1,3 +1,65 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Gunjan Tank"
+  subtitle    = "Patience you must have young padawan"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Patience you must have young padawan"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "gunjan_tank"
+  fbName = "gunjan.tank.5"
+  githubName = "gunjan01"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Gunjan"
+  authorAvatar = "test.png"
+  authorLocation = "Bangalore, India"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Developer and cook"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Tech"
+  url = "/tags/tech/"
+  weight = 100
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "Travel"
+  url = "/categories/travel/"
+  weight = 99
+
+[[menu.main]]
+  name = "Gallery"
+  url = "/categories/gallery/"
+  weight = 95
