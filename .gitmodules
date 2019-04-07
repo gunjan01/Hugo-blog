@@ -1,0 +1,6 @@
+[submodule "themes/casper-two"]
+	path = themes/casper-two
+	url = https://github.com/eueung/hugo-casper-two
+[submodule "gunjan01.github.io"]
+	path = gunjan01.github.io
+	url = https://github.com/gunjan01/gunjan01.github.io

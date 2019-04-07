@@ -1,8 +1,9 @@
-baseurl         = "/"
+baseurl         = "https://gunjan01.github.io/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
+publishDir = "gunjan01.github.io"
 #SectionPagesMenu = "main"
 
 [params]
