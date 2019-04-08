@@ -4,7 +4,7 @@ date: 2019-04-01T19:52:16+05:30
 draft: false
 image: "carrots-cucumber-delicious-1640777.jpg"
 tags: ["tech"]
-categories: ["food", "travel", "gallery"]
+categories: ["khaana", "journey", "gallery", "miscellaneous"]
 ---
 
 # Some junk from the Internet

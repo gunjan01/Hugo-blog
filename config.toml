@@ -20,6 +20,8 @@ publishDir = "gunjan01.github.io"
   twitterName = "gunjan_tank"
   fbName = "gunjan.tank.5"
   githubName = "gunjan01"
+	linkedinName= "gunjan-t-60781176"
+	mediumName = "gunjantank"
 
   logo = ""
   orgName = "EM"
@@ -51,16 +53,17 @@ publishDir = "gunjan01.github.io"
   weight = 100
 
 [[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
+  name = "Khaana"
+  url = "/categories/khaana/"
   weight = 99
 
 [[menu.main]]
-  name = "Travel"
-  url = "/categories/travel/"
-  weight = 99
+  name = "Journey's with meaning"
+  url = "/categories/journey/"
+  weight = 97
 
 [[menu.main]]
-  name = "Gallery"
-  url = "/categories/gallery/"
+  name = "Miscellaneous"
+  url = "/categories/miscellaneous/"
   weight = 95
+
