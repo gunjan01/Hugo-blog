@@ -7,7 +7,7 @@ publishDir = "gunjan01.github.io"
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Gunjan Tank"
+  title       = "Gunjan  टांक"
   subtitle    = "Patience you must have young padawan"
 
   cover       = "img/blog-cover.jpg"
