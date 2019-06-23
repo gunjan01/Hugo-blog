@@ -36,12 +36,14 @@ Another beautiful initiative I got to be part of was the **Green tails** initati
 
 I met some beatiful and like minded people who inspired me in one way or another. Here's a short description about each of them.
 
-* Ravi sir - MS of our team. Calm composed observant and brave. Worked with Indian air force in the past. An          environmentalist on a mission.
-* Krishna sir - Uoungest guy in the group ( 56 ). He taught us age is just a number literally. This was his eighth    high altitude trek.
+* Ravi sir - MS of our team. Calm, composed, observant and brave. Worked with Indian air force in the past. An          environmentalist on a mission.
+* Krishna sir - Youngest guy in the group ( 56 ). He taught us age is just a number,literally. This was his eighth    high altitude trek.
 * Ishaan - Innocence. Happily told people his BP is 170 out of innocence.
 * Aman and Dhwanit - Experience and intelligence.
 * Mehul - Assistant trek leader as we would call him :P
-* Mohinish - Such a sport really !
+* Monish - Such a sport really !
 * Divya - My tent mate and the most sophisticated person i know :)
 
-After this trek, I have realised that mountaineering is something I would always enjoy and would continue doing until I can. Until the time I am in the mountains again, adios.
+After this trek, I have realised that mountaineering is something I would always enjoy and would continue doing until I can. Until the time I am in the mountains again, adios. Although a personal story, I hope this post inspires people to try something new and care about the environment. You don't have to be a hard core environmentalist but changing small things in everyday chores will go a long way. I will try to do the same.
+
+> In a nutshell, I learnt that it is the mountains that decide whether you will climb them or not, not you. The grace of the Almighty is always going to be there to shine a light in you.
