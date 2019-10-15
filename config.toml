@@ -63,6 +63,11 @@ publishDir = "gunjan01.github.io"
   weight = 97
 
 [[menu.main]]
+  name = "Books"
+  url = "/categories/books/"
+  weight = 96
+
+[[menu.main]]
   name = "Miscellaneous"
   url = "/categories/miscellaneous/"
   weight = 95
