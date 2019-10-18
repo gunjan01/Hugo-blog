@@ -6,7 +6,7 @@ image: "monk.jpg"
 categories: ["books"]
 ---
 
-Well let me start off by admitting a fact about me. I am not a reader. Over the years, I have lost the patience of sitting through a book. So after I heard about audible, I decided to try it out. It’s a fantastic app where you get one credit every month. You could use this credit to purchase any book of any price. In short, you can listen to twelve books for free in a year !! ( pretty awesome, right ?) I started my first book on audible titled, “The monk who sold his Ferrari”. I chose it as I like to explore diverse perspectives on spirituality.
+Well let me start off by admitting a fact about me. I am not a reader. Over the years, I have lost the patience of sitting through a book. So after I heard about audible, I decided to try it out. I chose it as I like to explore diverse perspectives on spirituality.
 
 The book describes the spiritual journey of a very successful yet unhappy lawyer named Julian mantle, who sells off all his possessions after a stroke in search of the meaning of life. He takes a trip to India and meets Yogi Krishnan who is a sage of a fiction place called sivannah in the ancient Himalayas. Yogi Krishnan leads Julian to his guru, Yogi Raman, his mentor and also, the head of the sages of sivannah. Yogi Raman becomes Julians' spiritual educator in the book teaching him ancient practices and sharing his wisdom on living more purposefully. Julian promises to return and spread this ancient knowledge to those in need and to those who are lost back home. The book is mostly a narration by Julian mantle to his junior and former colleague, John after he returns home, now a completely changed man, full of energy, life and vibrancy.
 
