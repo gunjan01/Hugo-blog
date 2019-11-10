@@ -8,10 +8,10 @@ publishDir = "gunjan01.github.io"
 
 [params]
   title       = "Gunjan  टांक"
-  subtitle    = "Patience you must have young padawan"
+  subtitle    = "Focus on the things you can change and honor the things you cannot."
 
   cover       = "mountains.jpg"
-  description = "Patience you must have young padawan"
+  description = "Focus on the things you can change and honor the things you cannot."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
