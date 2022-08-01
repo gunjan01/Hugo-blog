@@ -3,8 +3,8 @@ title: "Reebok Floatathon"
 date: 2019-05-12T19:13:58+05:30
 draft: false
 image: "floatathon.jpg"
-tags: ["miscellaneous"]
-categories: ["miscellaneous"]
+tags: ["miscellaneous", "Home"]
+categories: ["miscellaneous", "Home"]
 ---
 > The marathon. How an average runner becomes more than average.
 
